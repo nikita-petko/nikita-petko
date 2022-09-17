@@ -1,4 +1,4 @@
-## Hey there, I'm [Nikita Petko](https://www.linkedin.com/in/nkpetko/)
+## Hey there, I'm [Nikita Petko](https://www.linkedin.com/in/nikita-petko/)
 
 
 
