@@ -39,6 +39,6 @@ Here are some tools I've worked with
 
 ### Github Stats
 
-![Gjoes' Github Stats](https://github-readme-stats.vercel.app/api?username=nkpetko&theme=vue&count_private=true&show_icons=true)
+![Gjoes' Github Stats](https://github-readme-stats.vercel.app/api?username=nikita-petko&theme=dark&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkpetko&langs_count=25)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-petko&langs_count=50&layout=compact&theme=dark)
